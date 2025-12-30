@@ -1,5 +1,21 @@
-# 💫 About Me:
-🎯 I’m currently working on:<br>A women safety and senior citizen alert application that uses voice and activity recognition to send real-time SOS alerts to nearby nurses, police, and hospitals, integrated with Firebase and IBM Cloud.<br>🤝 I’m looking to collaborate on:<br>Mobile app development, AI-integrated projects, and innovative solutions for healthcare and security domains.<br>🧠 I’m looking for help with:<br>Advanced ML techniques for voice and face recognition, and optimizing real-time Firebase integrations.<br>🌱 I’m currently learning:<br>Generative AI applications, advanced Kotlin features, and backend optimization with scalable architecture.<br>💬 Ask me about:<br>Hackathon strategies (6x winner!), Firebase, Android with Kotlin, app UI/UX design, and full-stack project building.<br>⚡ Fun fact:<br>I’ve led multiple hackathon-winning teams, developed apps used by 1000+ users, and I enjoy mentoring others in tech through my club leadership roles!
+💫 About Me:
+
+🎯 I’m currently working as a Software Engineer Intern at Syngenta, where I’m building Agentic AI and RAG-based systems and contributing to full-stack product development. My work includes developing React Native applications, designing Node.js backend services, and writing scalable, type-safe code using TypeScript, with a strong focus on AI-driven workflows and automation.
+
+🤝 I’m looking to collaborate on:
+Agentic AI systems, RAG-based applications, mobile app development (React Native / Android), and scalable backend architectures.
+
+🧠 I’m looking for help with:
+Advanced Agentic AI design patterns, improving RAG retrieval quality, and production-grade AI system optimization.
+
+🌱 I’m currently learning:
+Multi-agent architectures, advanced RAG pipelines, TypeScript at scale, and AI-driven backend optimization.
+
+💬 Ask me about:
+Agentic AI, RAG, React Native, Node.js, TypeScript, Firebase, Android with Kotlin, hackathon strategies (6x winner), and building real-world full-stack systems.
+
+⚡ Fun fact:
+I’ve led multiple hackathon-winning teams, built products used by 1000+ users, and actively mentor students through tech communities and clubs.
 
 
 ## 🌐 Socials:
